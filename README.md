@@ -6,7 +6,7 @@
 
   Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="[https://codewithsadee.github.io/portfolio/](https://kiranjitdesign.github.io/Portfolio-Main/)"><strong>➥ Live Demo</strong></a>
 
 </div>
 
